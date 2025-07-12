@@ -1,0 +1,397 @@
+{
+    "id": 1653391643216,
+    "session": {
+        "phaseId": "2022_05_LPT",
+        "sessionId": 7,
+        "groupId": "B",
+        "session_type": "4_const3",
+        "date": "2022-5-24"
+    },
+    "players": [
+        {
+            "id": "P02",
+            "age": 25,
+            "gender": "female"
+        }
+    ],
+    "game": {
+        "timeStart": "13:27:26",
+        "timeEnd": "13:31:08",
+        "game_type": "4_const3",
+        "altGameName": "4_const3",
+        "numberRounds": 20,
+        "numberCellsOpenedPerRound": 3,
+        "numberPlayers": 5,
+        "botsList": [
+            {
+                "name": "R2_constant_3",
+                "numberOfBots": "4"
+            }
+        ],
+        "evaporation": "1000",
+        "randomMS1": "on",
+        "randomMS2": null,
+        "bots": [
+            {
+                "_id": "62879e0bcea97169381479fd",
+                "botName": "R2_constant_3",
+                "visitStrategy": [
+                    "1.3",
+                    "2.34",
+                    "1.2",
+                    "1.45",
+                    "22.4",
+                    "1.36"
+                ],
+                "exploration": [
+                    "0.73",
+                    "1.17"
+                ],
+                "bettingStrategy": [
+                    "3",
+                    "0"
+                ],
+                "oneRoundMemory": "on",
+                "typeOfFunction": "linear"
+            },
+            {
+                "_id": "62879e0bcea97169381479fd",
+                "botName": "R2_constant_3",
+                "visitStrategy": [
+                    "1.3",
+                    "2.34",
+                    "1.2",
+                    "1.45",
+                    "22.4",
+                    "1.36"
+                ],
+                "exploration": [
+                    "0.73",
+                    "1.17"
+                ],
+                "bettingStrategy": [
+                    "3",
+                    "0"
+                ],
+                "oneRoundMemory": "on",
+                "typeOfFunction": "linear"
+            },
+            {
+                "_id": "62879e0bcea97169381479fd",
+                "botName": "R2_constant_3",
+                "visitStrategy": [
+                    "1.3",
+                    "2.34",
+                    "1.2",
+                    "1.45",
+                    "22.4",
+                    "1.36"
+                ],
+                "exploration": [
+                    "0.73",
+                    "1.17"
+                ],
+                "bettingStrategy": [
+                    "3",
+                    "0"
+                ],
+                "oneRoundMemory": "on",
+                "typeOfFunction": "linear"
+            },
+            {
+                "_id": "62879e0bcea97169381479fd",
+                "botName": "R2_constant_3",
+                "visitStrategy": [
+                    "1.3",
+                    "2.34",
+                    "1.2",
+                    "1.45",
+                    "22.4",
+                    "1.36"
+                ],
+                "exploration": [
+                    "0.73",
+                    "1.17"
+                ],
+                "bettingStrategy": [
+                    "3",
+                    "0"
+                ],
+                "oneRoundMemory": "on",
+                "typeOfFunction": "linear"
+            }
+        ],
+        "rule": {
+            "_id": "627cdd3773f50937a7060b03",
+            "rule": 2,
+            "ruleName": "rule_2",
+            "maxNumberOfStarsPerRound": 15,
+            "coefRemainingStars": 0,
+            "coefValueTimesStars": null,
+            "coefValue": "on"
+        },
+        "versus": false,
+        "map": {
+            "_id": "627cdd3773f50937a7060b04",
+            "mapName": "random_1",
+            "mapType": "random",
+            "map": [
+                [
+                    3,
+                    3,
+                    1,
+                    3,
+                    4,
+                    44,
+                    1,
+                    71,
+                    2,
+                    51,
+                    27,
+                    28,
+                    12,
+                    2,
+                    3
+                ],
+                [
+                    86,
+                    1,
+                    0,
+                    20,
+                    4,
+                    99,
+                    2,
+                    1,
+                    2,
+                    2,
+                    0,
+                    7,
+                    2,
+                    2,
+                    0
+                ],
+                [
+                    2,
+                    3,
+                    3,
+                    11,
+                    0,
+                    4,
+                    6,
+                    2,
+                    3,
+                    2,
+                    7,
+                    2,
+                    2,
+                    4,
+                    13
+                ],
+                [
+                    0,
+                    2,
+                    1,
+                    3,
+                    0,
+                    6,
+                    2,
+                    1,
+                    1,
+                    1,
+                    1,
+                    4,
+                    8,
+                    3,
+                    0
+                ],
+                [
+                    1,
+                    2,
+                    3,
+                    1,
+                    3,
+                    1,
+                    8,
+                    3,
+                    1,
+                    6,
+                    1,
+                    2,
+                    1,
+                    3,
+                    1
+                ],
+                [
+                    8,
+                    2,
+                    1,
+                    0,
+                    3,
+                    27,
+                    0,
+                    46,
+                    3,
+                    9,
+                    7,
+                    13,
+                    72,
+                    20,
+                    2
+                ],
+                [
+                    1,
+                    3,
+                    2,
+                    4,
+                    2,
+                    4,
+                    1,
+                    27,
+                    1,
+                    19,
+                    3,
+                    2,
+                    24,
+                    1,
+                    24
+                ],
+                [
+                    21,
+                    0,
+                    0,
+                    3,
+                    3,
+                    13,
+                    1,
+                    43,
+                    1,
+                    2,
+                    24,
+                    3,
+                    1,
+                    0,
+                    53
+                ],
+                [
+                    0,
+                    2,
+                    2,
+                    8,
+                    2,
+                    0,
+                    3,
+                    71,
+                    3,
+                    9,
+                    3,
+                    2,
+                    44,
+                    1,
+                    1
+                ],
+                [
+                    0,
+                    5,
+                    20,
+                    1,
+                    3,
+                    2,
+                    6,
+                    3,
+                    0,
+                    1,
+                    3,
+                    2,
+                    1,
+                    6,
+                    0
+                ],
+                [
+                    0,
+                    1,
+                    2,
+                    1,
+                    2,
+                    2,
+                    3,
+                    19,
+                    3,
+                    0,
+                    2,
+                    20,
+                    72,
+                    1,
+                    0
+                ],
+                [
+                    1,
+                    3,
+                    0,
+                    1,
+                    2,
+                    53,
+                    4,
+                    0,
+                    3,
+                    43,
+                    45,
+                    0,
+                    2,
+                    4,
+                    3
+                ],
+                [
+                    1,
+                    45,
+                    1,
+                    3,
+                    2,
+                    1,
+                    7,
+                    1,
+                    2,
+                    7,
+                    2,
+                    2,
+                    4,
+                    84,
+                    2
+                ],
+                [
+                    8,
+                    1,
+                    1,
+                    20,
+                    14,
+                    4,
+                    86,
+                    6,
+                    1,
+                    1,
+                    85,
+                    22,
+                    2,
+                    5,
+                    2
+                ],
+                [
+                    2,
+                    2,
+                    1,
+                    14,
+                    12,
+                    1,
+                    53,
+                    2,
+                    6,
+                    44,
+                    6,
+                    2,
+                    2,
+                    2,
+                    0
+                ]
+            ]
+        }
+    }
+}
